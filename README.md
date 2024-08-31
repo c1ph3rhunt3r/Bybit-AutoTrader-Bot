@@ -67,5 +67,5 @@ This Telegram bot automates trading activities on the Bybit exchange based on si
 - The bot will only respond to the user ID specified in the `.env` file for security reasons.
 
 ## Contributing
-
+There are still lots of bugs as this project is still work in progress.
 If you would like to contribute to this project, please fork the repository and submit a pull request.

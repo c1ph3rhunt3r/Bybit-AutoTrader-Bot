@@ -57,6 +57,9 @@ This Telegram bot automates trading activities on the Bybit exchange based on si
    - Use `/start` to begin using the bot and select a mode.
    - Use `/exitmode` to exit the current mode and return to the home screen.
    - Use `/help` to display available commands.
+3. **Signal Format**:
+
+      ![image](https://github.com/user-attachments/assets/f185cab7-9a68-4d09-98d5-f882b78d6730)
 
 ### Important Notes
 
